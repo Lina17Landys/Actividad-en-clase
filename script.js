@@ -9,7 +9,9 @@ const productos = async () => {
     
     }
 
-
-
-
 productos(); 
+
+
+import { AYUDA} from "./utils.js";
+
+console.log(AYUDA)
